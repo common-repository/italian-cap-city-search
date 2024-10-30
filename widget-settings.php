@@ -1,0 +1,1 @@
+{"wpics_option_cap":true,"wpics_option_city":true,"wpics_option_address":false,"wpics_option_records":1}

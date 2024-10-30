@@ -1,0 +1,17 @@
+.wpics-bg-error {
+    border: 1px solid #a31919;
+    background-color: #a31919 !important;
+    color: #f8f361 !important;
+}
+
+.wpics-table-widget-results {
+
+}
+
+.wpics-widget-results-cap {
+    width: 20% !important;
+}
+
+.wpics-widget-results-city {
+    width: 80% !important;
+}
